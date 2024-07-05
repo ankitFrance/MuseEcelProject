@@ -1,0 +1,56 @@
+local	joconde	(select fr from thesaurus.oeuvre_local where id=local)
+FR01053MBR*	09630005234	musee > France, Bourg-en-Bresse, musée de Brou
+FR10387MBA*	00000057273	musee > France, Troyes, musée des beaux-arts et d'archéologie
+FR10387MHV*	00000057214	musee > France, Troyes, musée de Vauluisant
+FR10387MSL*	00000056134	musee > France, Troyes, musée Saint-Loup
+FR11069MBA*	04400001284	musee > France, Carcassonne, musée des beaux-arts
+FR14118MB**	06570007477	musee > France, Caen, musée des beaux-arts
+FR21231MBA*	01370007520	musee > France, Dijon, musée des beaux-arts
+FR21231MMA*	50110000780	musee > France, Dijon, musée Magnin
+FR25056MBAA	M0332000765	musee > France, Besançon, musée des beaux-arts et d'archéologie
+FR35238MBAA	00000075736	musee > France, Rennes, musée des beaux-arts et d'archéologie
+FR38185MPS*	09940005756	musee > France, Grenoble, musée de Grenoble
+FR39198MBAA	M0347000755	musee > France, Dôle, musée des beaux-arts et d'archéologie
+FR41018MB**	M0271000202	musee > France, Blois, musée des beaux-arts
+FR41269MM**	M0277000399	musee > France, Vendôme, musée municipal
+FR42187MJD*	10200005352	musee > France, Roanne, musée Joseph Déchelette
+FR43157MC**	01160005605	musee > France, Le Puy-en-Velay, musée Crozatier
+FR44109MD**	07450003832	musee > France, Nantes, musée Dobrée
+FR49328MC**	M0759000628	musee > France, Saumur, château-musée
+FR50129MTH*	06770000170	musee > France, Cherbourg, musée Thomas Henry
+FR50502MA**	06850111138	musee > France, Saint-Lô, musée d'art
+FR55029MB**	M0517007702	musee > France, Bar-le-Duc, musée barrois
+FR59350MBA*	000PE017674	musee > France, Lille, Palais des beaux-arts
+FR60057MD**	000PE027321	musee > France, Beauvais, musée départemental de l'Oise
+FR60141MC**	00000077183	musee > France, Chantilly, musée Condé
+FR60159MAV*	08030001253	musee > France, Compiègne, musée Vivenel
+FR63113MARQ	M0121003183	musee > France, Clermont-Ferrand, musée d'art Roger-Quilliot
+FR64445MNCH	00000060300	musee > France, Pau, musée national du château
+FR67482MBA*	00190030806	musee > France, Strasbourg, musée des Beaux-Arts
+FR67482PREF	000PE006373	prefecture > France, Strasbourg, hôtel de la préfecture du Bas-Rhin
+FR68066MU**	M0028004923	musee > France, Colmar, musée d'Unterlinden
+FR70279MBM*	00000059291	musee > France, Gray, musée du Baron Martin
+FR71014MR**	01610009991	musee > France, Autun, musée Rolin
+FR71270MMU*	01720003556	musee > France, Mâcon, musée municipal des ursulines
+FR72181MT**	000PE009664	musee > France, Le Mans, musée de Tessé
+FR73065MBA*	000PE018040	musee > France, Chambéry, musée des beaux-arts
+FR75101CDE*	000PE011101	France, Paris, Conseil d'Etat
+FR75101CPCC	000PE008388	administration > France, Paris, cour des comptes
+FR75101MAE*	000PE001671	ministere > France, Paris, ministère des affaires étrangères
+FR75101MGM*	50410000387	musee > France, Paris, musée Gustave Moreau
+FR75101MLDP	000PE003448	musee > France, Paris, musée du Louvre, département des Peintures
+FR75101MN**	000PE007858	France, Paris, mobilier national
+FR75101MNJH	000PE026072	musee > France, Paris, musée national Jean-Jacques Henner
+FR75101MOS*	000PE004187	musee > France, Paris, musées d'Orsay et de l'Orangerie-Valéry Giscard d'Estaing
+FR75101MTHC	50030025095	musee > France, Paris, musée national du Moyen Age - Thermes de Cluny
+FR75101MUCE	50020223014	musee > France, Paris, musée des civilisations de l'Europe et de la Méditerranée (MUCEM)
+FR76540BA**	07290021377	musee > France, Rouen, musée des beaux-arts
+FR77186MNC*	50130000386	musee > France, Fontainebleau, musée national du château
+FR78646MNCT	000PE011191	musee > France, Versailles, musée national du château de Versailles et Trianon
+FR80021MP**	08120000154	musee > France, Amiens, musée de Picardie
+FR81065MGJ*	00000074397	musee > France, Castres, musée Goya
+FR82121MI**	06070001448	musee > France, Montauban, musée Ingres
+FR84003MP**	000PE012470	musee > France, Avignon, musée du Petit Palais
+FR92063MM**	00000095077	musee > France, Rueil-Malmaison, musée national des châteaux de Malmaison et de Bois-Préau
+FR95205MNR*	50120003909	musee > France, Ecouen, musée national de la Renaissance
+FRPAMLDP	000PE024672	musee > France, Paris, musée du Louvre, département des Peintures
